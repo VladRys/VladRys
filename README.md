@@ -17,7 +17,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/250px-Python-logo-notext.svg.png" width="18" height="18">
 </p>
 
-<b>I focused on building practical Python projects from the ground up. I design systems end-to-end—from architecture and data flow to clean implementations that solve real problems. Most of my work revolves around Telegram bots, automation, and small games, where I pay close attention to structure, maintainability, and scalability. I experiment in public through open-source projects, iterating on ideas and improving code quality with each release.</b>
+<p align="center">
+<b>I focused on building practical Python projects from the ground up.
+I design systems end-to-end from architecture and data flow to clean implementations that solve real problems. 
+Most of my work revolves around Telegram bots, automation, and small games, where I pay close attention to structure, maintainability, and scalability. 
+I experiment in public through open-source projects, iterating on ideas and improving code quality with each release.
+</p>
 </p>
 
 
