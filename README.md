@@ -12,9 +12,9 @@
 <p align="center">
 <h1 align="center">Vladyslav Rysich</h1>
 
-<p align="center">
-  <em>Python Developer</em>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/250px-Python-logo-notext.svg.png" width="18" height="18">
+<p align="center" display="flex" justify-content="space-beetween">
+  <b><em>Python Developer</em></b>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/250px-Python-logo-notext.svg.png" width="20" height="20">
 </p>
 
 <p align="center">
